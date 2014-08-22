@@ -1,0 +1,1488 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: CrowdPress\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-12-19 08:06-0500\n"
+"PO-Revision-Date: 2013-12-19 08:06-0500\n"
+"Last-Translator: Justin Scheetz <justin@scheetzdesigns.com>\n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;_n;_nx\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.6.3\n"
+"X-Poedit-SearchPath-0: /Users/justinscheetz/Dropbox/!Envato Products/!"
+"ThemeForest/!CrowdPress/Working WordPress\n"
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working WordPress/404.php:12
+msgid "Page Not Found"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working WordPress/404.php:14
+msgid "Sorry, this page cannot be found."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working WordPress/archive-campaigns.php:9
+msgid "Discover Projects"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/archive-campaigns.php:29 WordPress/content-campaign-widget.php:19
+#: WordPress/content-campaign.php:19
+#: WordPress/homepage-campaigns-classic.php:50
+#: WordPress/template-homepage.php:86
+msgid "Successful"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/archive-campaigns.php:29 WordPress/content-campaign-widget.php:19
+#: WordPress/content-campaign.php:19
+#: WordPress/homepage-campaigns-classic.php:50
+#: WordPress/template-homepage.php:86
+msgid "Staff Pick"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/archive-campaigns.php:33 WordPress/content-campaign-widget.php:23
+#: WordPress/content-campaign.php:23
+#: WordPress/homepage-campaigns-classic.php:54
+#: WordPress/single-post-block.php:36 WordPress/single-post-block.php:48
+#: WordPress/single-post-block.php:69 WordPress/single-post-block.php:83
+#: WordPress/single-post-block.php:98 WordPress/single-post-block.php:113
+#: WordPress/single-post-block.php:125 WordPress/template-homepage.php:90
+#: WordPress/widget-post-block.php:26 WordPress/widget-post-block.php:73
+#: WordPress/widget-post-block.php:103
+#: WordPress/_theme_settings/shortcodes/posts/posts.php:78
+msgid "by"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/archive-campaigns.php:42 WordPress/content-campaign-widget.php:32
+#: WordPress/content-campaign.php:32
+#: WordPress/homepage-campaigns-classic.php:60
+#: WordPress/single-campaign.php:35 WordPress/template-homepage.php:93
+msgid "funded"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/archive-campaigns.php:43 WordPress/content-campaign-widget.php:33
+#: WordPress/content-campaign.php:33
+#: WordPress/homepage-campaigns-classic.php:61
+#: WordPress/template-homepage.php:94
+msgid "pledged"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/archive-campaigns.php:48 WordPress/content-campaign-widget.php:38
+#: WordPress/content-campaign.php:38 WordPress/single-campaign.php:44
+msgid "Day Left"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/archive-campaigns.php:51 WordPress/content-campaign-widget.php:41
+#: WordPress/content-campaign.php:41 WordPress/single-campaign.php:46
+msgid "Hour Left"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working WordPress/archive.php:20
+msgid "Tagged"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working WordPress/archive.php:22
+#: WordPress/archive.php:24 WordPress/archive.php:26
+msgid "Archive for"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working WordPress/archive.php:28
+msgid "Author Archive"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working WordPress/archive.php:30
+msgid "Archives"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working WordPress/comments.php:17
+msgid "Please do not load this page directly. Thanks!"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working WordPress/comments.php:20
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working WordPress/comments.php:27
+msgid "No Responses"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working WordPress/comments.php:27
+msgid "One Response"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working WordPress/comments.php:27
+msgid "Responses"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working WordPress/comments.php:49
+msgid "Comments are closed."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working WordPress/comments.php:59
+#: WordPress/single-campaign.php:101 WordPress/single-post-block.php:37
+#: WordPress/single-post-block.php:49 WordPress/single-post-block.php:70
+#: WordPress/single-post-block.php:84 WordPress/single-post-block.php:99
+#: WordPress/single-post-block.php:114 WordPress/single-post-block.php:126
+#: WordPress/widget-post-block.php:27 WordPress/widget-post-block.php:74
+#: WordPress/widget-post-block.php:104
+#: WordPress/_theme_settings/shortcodes/posts/posts.php:79
+msgid "Comments"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working WordPress/header.php:180
+msgid "My Account"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working WordPress/header.php:181
+msgid "Logout"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working WordPress/header.php:185
+msgid "Sign In"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/homepage-campaigns-classic.php:37
+msgid "Featured Project in"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/homepage-campaigns-classic.php:38
+#: WordPress/template-homepage.php:67
+msgid "View all"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/homepage-campaigns-classic.php:38
+#: WordPress/template-homepage.php:67
+msgid "projects"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/homepage-campaigns-classic.php:62
+#: WordPress/template-homepage.php:95
+msgid "day"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/homepage-campaigns-classic.php:62
+#: WordPress/template-homepage.php:95
+msgid "to go"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/modal-campaign-widget.php:3
+msgid "Embed this campaign on your site..."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/modal-campaign-widget.php:10
+msgid ""
+"Help raise awareness by sharing this widget. Simply paste the following HTML "
+"code most places on the web."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/modal-campaign-widget.php:12
+msgid "Embed Code"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working WordPress/search.php:13
+#: WordPress/_theme_settings/theme-functions.php:409
+msgid "Search Results"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working WordPress/searchform.php:3
+msgid "Search..."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working WordPress/searchform.php:4
+msgid "Go"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/single-campaign-edit.php:13
+msgid "Edit"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working WordPress/single-campaign.php:36
+#, php-format
+msgid "PLEDGED OF %s GOAL"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working WordPress/single-campaign.php:40
+msgid "BACKER"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working WordPress/single-campaign.php:57
+#, php-format
+msgid "This project will only be funded if at least %1$s is pledged by %2$s."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working WordPress/single-campaign.php:59
+#, php-format
+msgid "All funds will be collected on %1$s."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working WordPress/single-campaign.php:61
+#, php-format
+msgid "All pledges will be collected automatically until %1$s."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working WordPress/single-campaign.php:67
+msgid "Support Now"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working WordPress/single-campaign.php:98
+msgid "Description"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working WordPress/single-campaign.php:99
+#: WordPress/single-campaign.php:204
+msgid "Updates"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working WordPress/single-campaign.php:100
+msgid "Backers"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working WordPress/single-campaign.php:115
+msgid "About the Author"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working WordPress/single-campaign.php:138
+#, php-format
+msgid "Created %1$d Campaign"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working WordPress/single-campaign.php:173
+#: WordPress/_theme_settings/theme-functions.php:72
+msgid "Name"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working WordPress/single-campaign.php:176
+#: WordPress/_theme_settings/theme-functions.php:72
+msgid "Email"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working WordPress/single-campaign.php:179
+#: WordPress/_theme_settings/theme-functions.php:72
+msgid "Question"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working WordPress/single-campaign.php:182
+#: WordPress/single-campaign.php:187
+msgid "Ask Question"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working WordPress/single-campaign.php:213
+msgid "No backers yet. Be the first!"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working WordPress/single-campaign.php:270
+msgid "Contribute Now"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working WordPress/single-campaign.php:274
+msgid "Project Ended"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working WordPress/single-campaign.php:275
+msgid "This project has ended, sorry you missed it!"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/single-post-block.php:36 WordPress/single-post-block.php:48
+#: WordPress/single-post-block.php:69 WordPress/single-post-block.php:83
+#: WordPress/single-post-block.php:98 WordPress/single-post-block.php:113
+#: WordPress/single-post-block.php:125 WordPress/widget-post-block.php:26
+#: WordPress/widget-post-block.php:73 WordPress/widget-post-block.php:103
+#: WordPress/_theme_settings/shortcodes/posts/posts.php:78
+msgid "Posted on"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/single-post-block.php:36 WordPress/single-post-block.php:48
+#: WordPress/single-post-block.php:69 WordPress/single-post-block.php:83
+#: WordPress/single-post-block.php:98 WordPress/single-post-block.php:113
+#: WordPress/single-post-block.php:125 WordPress/widget-post-block.php:26
+#: WordPress/widget-post-block.php:73 WordPress/widget-post-block.php:103
+#: WordPress/_theme_settings/shortcodes/posts/posts.php:78
+msgid "in"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/single-post-block.php:37 WordPress/single-post-block.php:49
+#: WordPress/single-post-block.php:70 WordPress/single-post-block.php:84
+#: WordPress/single-post-block.php:99 WordPress/single-post-block.php:114
+#: WordPress/single-post-block.php:126 WordPress/widget-post-block.php:27
+#: WordPress/widget-post-block.php:74 WordPress/widget-post-block.php:104
+#: WordPress/_theme_settings/shortcodes/posts/posts.php:79
+msgid "1 Comment"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/single-post-block.php:90 WordPress/single-post-block.php:105
+#: WordPress/single-post-block.php:131
+#: WordPress/_theme_settings/shortcodes/posts/posts.php:86
+msgid "Continue Reading"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_framework/admin/options-framework.php:244
+msgid "Click OK to reset. Any theme settings will be lost!"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_framework/admin/options-framework.php:275
+msgid "Default options restored."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_framework/admin/options-framework.php:323
+msgid "Options saved."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_framework/admin/options-framework.php:381
+msgid "Theme Options"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_framework/admin/options-medialibrary-uploader.php:26
+msgid "Options Framework Internal Container"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_framework/admin/options-medialibrary-uploader.php:128
+msgid "Upload"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_framework/admin/options-medialibrary-uploader.php:151
+msgid "View File"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_framework/admin/options-medialibrary-uploader.php:288
+msgid "Gallery"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_framework/admin/options-medialibrary-uploader.php:288
+msgid "Previously Uploaded"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_framework/custom_fields/cf_framework.php:6
+msgid "Select a page..."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_framework/custom_fields/cf_framework.php:35
+msgid "Select"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/add-theme-support.php:32
+msgid "Main Menu"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/add-theme-support.php:33
+msgid "Footer Menu"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/page-parts.php:27
+msgid "Featured Event in"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/page-parts.php:53
+msgid "Next Event in"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/register-sidebars.php:5
+msgid "Default Sidebar"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/register-sidebars.php:7
+msgid "The default sidebar for pages."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/register-sidebars.php:15
+msgid "Bottom Widget Block 1"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/register-sidebars.php:17
+#: WordPress/_theme_settings/register-sidebars.php:27
+#: WordPress/_theme_settings/register-sidebars.php:37
+#: WordPress/_theme_settings/register-sidebars.php:47
+msgid "This widget area should be used in the footer."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/register-sidebars.php:25
+msgid "Bottom Widget Block 2"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/register-sidebars.php:35
+msgid "Bottom Widget Block 3"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/register-sidebars.php:45
+msgid "Bottom Widget Block 4"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/register-sidebars.php:55
+msgid "Post Sidebar"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/register-sidebars.php:57
+msgid "These widgets will show up on posts only."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/theme-functions.php:9
+msgid "Featured Image"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/theme-functions.php:23
+#: WordPress/_theme_settings/theme-options.php:55
+#: WordPress/_theme_settings/theme-options.php:63
+msgid "None"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/theme-functions.php:43
+msgid "Please enter your name."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/theme-functions.php:50
+msgid "Please enter your email address."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/theme-functions.php:53
+msgid "You entered an invalid email address."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/theme-functions.php:60
+msgid "Please enter your question."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/theme-functions.php:71
+msgid "Campaign question from "
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/theme-functions.php:75
+msgid "Your message has been sent!"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/theme-functions.php:94
+#, php-format
+msgid ""
+"<strong>Notice:</strong> CrowdPress will not work properly without the "
+"<strong><a href=\"%s\">AppThemer Crowdfunding Plugin</a></strong> installed. "
+"<a href=\"%s\" class=\"alignright\">Hide this message.</a>"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/theme-functions.php:167
+#, php-format
+msgid "Pledge %s"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/theme-functions.php:174
+#, php-format
+msgid "Limited (%d of %d left)"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/theme-functions.php:176
+msgid "All gone!"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/theme-functions.php:181
+msgid "Backer"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/theme-functions.php:336
+msgid "Share"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/theme-functions.php:337
+#, php-format
+msgid "Check out %s on %s! %s"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/theme-functions.php:648
+msgid "Custom Pledging"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/theme-functions.php:649
+msgid "Allow arbitrary amounts to be pledged."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/theme-options.php:47
+msgid "All"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/theme-options.php:77
+msgid "General Styling"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/theme-options.php:80
+msgid "Logo Replacement"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/theme-options.php:81
+msgid ""
+"Upload your own logo. Our recommendation is to keep it at 300px x 109px or "
+"smaller."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/theme-options.php:85
+msgid "Logo Width (optional)"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/theme-options.php:86
+msgid ""
+"The default width for logos is \"174\". You can change this here by entering "
+"a new width."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/theme-options.php:91
+msgid "Logo Height (optional)"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/theme-options.php:92
+msgid ""
+"The default height for logos is \"109\". You can change this here by "
+"entering a new height."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/theme-options.php:97
+msgid "Custom Color"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/theme-options.php:98
+msgid "You can change the custom color. (default is #eb713d)"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/theme-options.php:105
+msgid "Sticky Header?"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/theme-options.php:106
+msgid ""
+"You can optionally choose to stick the header to the top as you scroll down."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/theme-options.php:112
+msgid "Image Zoom Effect?"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/theme-options.php:113
+msgid ""
+"You can optionally turn off the \"image zoom\" effect when hovering over "
+"campaign images."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/theme-options.php:119
+msgid "Disable Responsiveness?"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/theme-options.php:120
+msgid "You can optionally turn off the mobile responsiveness."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/theme-options.php:126
+msgid "Boxed style? (fixed width)"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/theme-options.php:127
+msgid ""
+"You can optionally choose to box the site and then set a custom background "
+"color/image."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/theme-options.php:133
+msgid "Body Background Color (if boxed)"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/theme-options.php:134
+msgid "You can change the custom color. (default is #ffffff)"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/theme-options.php:139
+msgid "Body Background Image (if boxed)"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/theme-options.php:140
+msgid "Upload your own image that will center and repeat in the background."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/theme-options.php:146
+msgid "Body Background Repeat (if boxed)"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/theme-options.php:155
+msgid "Body Background Position (if boxed)"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/theme-options.php:162
+msgid "Favicon Replacement"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/theme-options.php:163
+msgid ""
+"Upload your own favicon. Be sure it's a 16px x 16px \"ico\" or \"png\" file."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/theme-options.php:169
+msgid "Homepage Slider"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/theme-options.php:174
+msgid "Auto-cycle the slider?"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/theme-options.php:175
+msgid "Would you like the homepage slider to cycle automatically?"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/theme-options.php:183
+msgid "Time between slides"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/theme-options.php:184
+msgid "How quickly should the slider cycle?"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/theme-options.php:193
+msgid "Custom Fonts"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/theme-options.php:196
+msgid "Choose a font from the entire Google Library:"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/theme-options.php:419
+msgid "Font preview (save to refresh the preview):"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/theme-options.php:423
+msgid "Comment Disabling"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/theme-options.php:428
+msgid "Disable comments on pages?"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/theme-options.php:429
+msgid "Select 'yes' if you want to hide the commenting for all pages."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/theme-options.php:435
+msgid "Disable comments on posts?"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/theme-options.php:436
+msgid "Select 'yes' if you want to hide the commenting for all posts."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/theme-options.php:442
+msgid "Disable comments on campaigns?"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/theme-options.php:443
+msgid "Select 'yes' if you want to hide the commenting for all campaigns."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/theme-options.php:451
+msgid "Social Settings"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/theme-options.php:454
+msgid "Hide the \"Facebook Like\" on Campaigns?"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/theme-options.php:461
+msgid "Hide the \"Twitter Tweet\" on Campaigns?"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/theme-options.php:468
+msgid "Hide \"Google Plus\" on Campaigns?"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/theme-options.php:475
+msgid "Hide \"Pinterest\" on Campaigns?"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/theme-options.php:482
+msgid "Facebook"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/theme-options.php:483
+msgid "Paste your Facebook profile or page URL here."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/theme-options.php:488
+msgid "Twitter"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/theme-options.php:489
+msgid "Paste your Twitter profile URL here."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/theme-options.php:494
+msgid "LinkedIn"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/theme-options.php:495
+msgid "Paste your LinkedIn profile URL here."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/theme-options.php:500
+msgid "Youtube"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/theme-options.php:501
+msgid "Paste your Youtube profile URL here."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/theme-options.php:506
+msgid "Vimeo"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/theme-options.php:507
+msgid "Paste your Vimeo profile URL here."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/theme-options.php:512
+msgid "RSS Feed"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/theme-options.php:513
+msgid "Paste your RSS Feed URL here."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/theme-options.php:519
+msgid "Twitter Settings"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/theme-options.php:533
+msgid "Instructions"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/theme-options.php:559
+msgid "Footer"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/theme-options.php:562
+msgid "Footer Background Color"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/theme-options.php:563
+msgid "You can change the custom background color. (default is #333333)"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/theme-options.php:568
+msgid "Footer Logo Replacement"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/theme-options.php:569
+msgid "Upload your own logo. Make the image exactly 143px x 32px or smaller."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/theme-options.php:573
+msgid "Left Text"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/theme-options.php:574
+msgid "You can use [year] to display the year."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/theme-options.php:581
+msgid "Right Content Type"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/theme-options.php:582
+msgid ""
+"Choose the type of content you want to display on the right side of the "
+"footer."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/theme-options.php:588
+msgid "Right Text (if selected above)"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/theme-options.php:589
+msgid "You can use &lt;span&gt; tags to colorize &amp; bold specific text."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/theme-options.php:594
+msgid "Disable the Footer Bar?"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/theme-options.php:603
+msgid "Breadcrumbs"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/theme-options.php:606
+msgid "Disable the Breadcrumbs on Pages?"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/theme-options.php:613
+msgid "Disable the Breadcrumbs on Posts?"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/theme-options.php:620
+msgid "Disable the Breadcrumbs on Search Results?"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/theme-options.php:629
+#: WordPress/_theme_settings/custom-fields/pages.php:12
+msgid "Other Options"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/theme-options.php:632
+msgid "404 Page Content"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/theme-options.php:633
+msgid "This is what will show up on the 404 page. HTML Allowed."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/theme-options.php:635
+msgid "Sorry, the page cannot be found."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/theme-options.php:638
+msgid "Google Analytics Code"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/theme-options.php:639
+msgid "Enter your code, this shows up right above the </head> tag."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/theme-options.php:644
+msgid "Custom CSS Code"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/theme-options.php:645
+msgid "Enter your own styles to overwrite whatever you need to."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/custom-fields/campaigns.php:4
+#: WordPress/_theme_settings/custom-fields/pages.php:77
+msgid "Widget Layout"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/custom-fields/campaigns.php:16
+#: WordPress/_theme_settings/custom-fields/pages.php:89
+msgid "Widget Block for ZONE 1:"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/custom-fields/campaigns.php:20
+#: WordPress/_theme_settings/custom-fields/pages.php:93
+msgid "Widget Block for ZONE 2:"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/custom-fields/campaigns.php:24
+#: WordPress/_theme_settings/custom-fields/pages.php:97
+msgid "Widget Block for ZONE 3:"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/custom-fields/campaigns.php:28
+#: WordPress/_theme_settings/custom-fields/pages.php:101
+msgid "Widget Block for ZONE 4:"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/custom-fields/campaigns.php:31
+#: WordPress/_theme_settings/custom-fields/pages.php:104
+msgid "Footer Widgets"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/custom-fields/pages.php:6
+msgid "Page Layout"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/custom-fields/pages.php:10
+msgid "Individual blocks can be hidden using the other options on this page."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/custom-fields/pages.php:13
+msgid "Hide the breadcrumbs"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/custom-fields/pages.php:13
+msgid "Hide the page title"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/custom-fields/pages.php:15
+msgid "Featured Campaigns Style"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/custom-fields/pages.php:17
+msgid "No Featured Campaigns"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/custom-fields/pages.php:18
+msgid "Classic Flipping Slider (shows one featured campaign per category)"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/custom-fields/pages.php:19
+msgid "Featured Panels (a responsive swipable slider of campaign panels)"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/custom-fields/pages.php:20
+msgid "Campaign Grid (shows all campaigns in a big grid, sorted randomly)"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/custom-fields/pages.php:23
+msgid "Campaign Grid Text (optional)"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/custom-fields/pages.php:26
+msgid "Header Image"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/custom-fields/pages.php:30
+msgid "Header Text (optional)"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/custom-fields/pages.php:33
+msgid "Parallax Effect"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/custom-fields/pages.php:34
+msgid "Activate parallax header image"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/custom-fields/pages.php:37
+msgid "\"The Latest Projects\" Title"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/custom-fields/pages.php:42
+msgid "Number of \"Latest Projects\" to display:"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/custom-fields/pages.php:46
+msgid "Sort the \"Latest Projects\" by:"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/custom-fields/pages.php:49
+msgid "Page Settings"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/custom-fields/pages.php:55
+msgid "Sidebar Layout"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/custom-fields/pages.php:69
+msgid "Choose a sidebar:"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/custom-fields/pages.php:72
+msgid "Sidebar Settings"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/widgets/facebook-feed.php:13
+msgid "Displays the Facebook Feed from a user or page."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/widgets/facebook-feed.php:20
+msgid "[CROWDPRESS] Facebook Feed"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/widgets/facebook-feed.php:26
+msgid "Facebook Feed"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/widgets/facebook-feed.php:37
+#: WordPress/_theme_settings/widgets/recent-posts.php:37
+#: WordPress/_theme_settings/widgets/recent-tweets.php:37
+msgid "How many total items?"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/widgets/facebook-feed.php:43
+#: WordPress/_theme_settings/widgets/recent-posts.php:43
+#: WordPress/_theme_settings/widgets/recent-tweets.php:43
+msgid "How many visible items?"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/widgets/page-children.php:8
+msgid ""
+"Displays the direct children of the current page ancestor. This widget is "
+"displayed only on pages."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/widgets/page-children.php:10
+msgid "[CROWDPRESS] List Child Pages"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/widgets/recent-posts.php:13
+msgid "Displays recent posts in a custom style."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/widgets/recent-posts.php:20
+msgid "[CROWDPRESS] Recent Posts"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/widgets/recent-posts.php:26
+msgid "Recent Posts"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/widgets/recent-posts.php:31
+msgid "Select Categories"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/widgets/recent-tweets.php:13
+msgid "Displays recent tweets from a username."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/widgets/recent-tweets.php:20
+msgid "[CROWDPRESS] Recent Tweets"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/widgets/recent-tweets.php:26
+msgid "Recent Tweets"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/widgets/recent-tweets.php:80
+msgid ""
+"Please make sure that you have your application settings entered in the "
+"Twitter Settings tab at <a href=\""
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/widgets/recent-tweets.php:139
+msgid "ago"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/widgets/text.php:12
+msgid "Displays a text widget."
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/widgets/text.php:18
+msgid "[CROWDPRESS] Text Widget"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/widgets/text.php:23
+msgid "Title"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/widgets/text.php:24
+msgid "Widget Title"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/widgets/text.php:29
+msgid "Widget Text"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/widgets/text.php:35
+msgid "Button Link (optional)"
+msgstr ""
+
+#: /Users/justinscheetz/Dropbox/!Envato
+#: Products/!ThemeForest/!CrowdPress/Working
+#: WordPress/_theme_settings/widgets/text.php:41
+msgid "Button Text (optional)"
+msgstr ""
